@@ -1,0 +1,13 @@
+# Boro-Get broArbitra Repo file
+[GENERAL]
+Author=Zhenboro
+From=http://github.com/Zhenboro
+[ASSEMBLY]
+Name=broArbitra
+Executable=broArbitra.exe
+Version=0.3.0.0
+Web=https://github.com/Zhenboro/borocito-components/tree/main/broArbitra
+[INSTALLER]
+Binaries=https://zhenboro.urmom.art/Borocito/Boro-Get/REPO/broArbitra.zip
+Installer=NULL
+InstallFolder=%temp%

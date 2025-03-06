@@ -1,0 +1,13 @@
+# Boro-Get broKiloger Repo file
+[GENERAL]
+Author=Zhenboro
+From=http://github.com/Zhenboro
+[ASSEMBLY]
+Name=broKiloger
+Executable=broKiloger.exe
+Version=0.3.2.0
+Web=https://github.com/Zhenboro/borocito-components/tree/main/broKiloger
+[INSTALLER]
+Binaries=https://zhenboro.urmom.art/Borocito/Boro-Get/REPO/broKiloger.zip
+Installer=NULL
+InstallFolder=%temp%

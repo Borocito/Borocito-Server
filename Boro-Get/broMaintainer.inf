@@ -1,0 +1,13 @@
+# Boro-Get broMaintainer Repo file
+[GENERAL]
+Author=Zhenboro
+From=http://github.com/Zhenboro
+[ASSEMBLY]
+Name=broMaintainer
+Executable=broMaintainer.exe
+Version=0.1.0.0
+Web=https://github.com/Zhenboro/borocito-components/tree/main/broMaintainer
+[INSTALLER]
+Binaries=https://zhenboro.urmom.art/Borocito/Boro-Get/REPO/broMaintainer.zip
+Installer=NULL
+InstallFolder=%temp%
