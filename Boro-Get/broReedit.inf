@@ -8,6 +8,6 @@ Executable=broReedit.exe
 Version=1.0.0.0
 Web=https://github.com/Zhenboro/borocito-components/tree/main/broReedit
 [INSTALLER]
-Binaries=https://zhenboro.urmom.art/Borocito/Boro-Get/REPO/broReedit.zip
+Binaries=http://borocito.local/Boro-Get/REPO/broReedit.zip
 Installer=NULL
 InstallFolder=%temp%

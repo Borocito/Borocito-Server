@@ -8,6 +8,6 @@ Executable=broArbitra.exe
 Version=0.3.0.0
 Web=https://github.com/Zhenboro/borocito-components/tree/main/broArbitra
 [INSTALLER]
-Binaries=https://zhenboro.urmom.art/Borocito/Boro-Get/REPO/broArbitra.zip
+Binaries=http://borocito.local/Boro-Get/REPO/broArbitra.zip
 Installer=NULL
 InstallFolder=%temp%

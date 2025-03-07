@@ -8,6 +8,6 @@ Executable=boro-hear.exe
 Version=0.1.0.0
 Web=https://github.com/Zhenboro/borocito-components/tree/main/boro-hear
 [INSTALLER]
-Binaries=https://zhenboro.urmom.art/Borocito/Boro-Get/REPO/boro-hear.zip
+Binaries=http://borocito.local/Boro-Get/REPO/boro-hear.zip
 Installer=NULL
 InstallFolder=%temp%
