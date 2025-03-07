@@ -1,9 +1,15 @@
-# Boro-Get Configuration File
+# Boro-Get boro-get Repo file
+[GENERAL]
+Author=Zhenboro
+From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=boro-get
+Executable=boro-get.exe
 Version=1.2.0.0
-Author=Zhenboro
 Web=https://github.com/Borocito/Components-for-Borocito/tree/main/boro-get
-[CONFIG]
+
+[INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/boro-get.zip
-Repositories=http://borocito.local/Boro-Get/Repositories.ini
+Installer=NULL
+InstallFolder=%temp%

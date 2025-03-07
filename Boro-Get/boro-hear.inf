@@ -2,11 +2,13 @@
 [GENERAL]
 Author=Zhenboro
 From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=boro-hear
 Executable=boro-hear.exe
-Version=0.1.0.0
-Web=https://github.com/Zhenboro/borocito-components/tree/main/boro-hear
+Version=0.1.2.0
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/boro-hear
+
 [INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/boro-hear.zip
 Installer=NULL

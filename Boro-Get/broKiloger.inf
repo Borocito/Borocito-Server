@@ -2,11 +2,13 @@
 [GENERAL]
 Author=Zhenboro
 From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=broKiloger
 Executable=broKiloger.exe
 Version=0.3.2.0
-Web=https://github.com/Zhenboro/borocito-components/tree/main/broKiloger
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/broKiloger
+
 [INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/broKiloger.zip
 Installer=NULL

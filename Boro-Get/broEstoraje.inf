@@ -2,11 +2,13 @@
 [GENERAL]
 Author=Zhenboro
 From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=broEstoraje
 Executable=broEstoraje.exe
 Version=0.1.0.0
-Web=https://github.com/Zhenboro/borocito-components/tree/main/broEstoraje
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/broEstoraje
+
 [INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/broEstoraje.zip
 Installer=NULL

@@ -2,11 +2,13 @@
 [GENERAL]
 Author=Zhenboro
 From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=broArbitra
 Executable=broArbitra.exe
 Version=0.3.0.0
-Web=https://github.com/Zhenboro/borocito-components/tree/main/broArbitra
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/broArbitra
+
 [INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/broArbitra.zip
 Installer=NULL

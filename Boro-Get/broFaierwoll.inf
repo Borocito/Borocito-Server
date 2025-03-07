@@ -2,11 +2,13 @@
 [GENERAL]
 Author=Zhenboro
 From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=broFaierwoll
 Executable=broFaierwoll.exe
 Version=0.1.0.0
-Web=https://github.com/Zhenboro/borocito-components/tree/main/broFaierwoll
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/broFaierwoll
+
 [INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/broFaierwoll.zip
 Installer=NULL

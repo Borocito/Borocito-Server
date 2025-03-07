@@ -2,11 +2,13 @@
 [GENERAL]
 Author=Zhenboro
 From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=broReedit
 Executable=broReedit.exe
 Version=1.0.0.0
-Web=https://github.com/Zhenboro/borocito-components/tree/main/broReedit
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/broReedit
+
 [INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/broReedit.zip
 Installer=NULL

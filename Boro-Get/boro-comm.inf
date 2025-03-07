@@ -1,0 +1,15 @@
+# Boro-Get boro-comm Repo file
+[GENERAL]
+Author=Zhenboro
+From=http://github.com/Zhenboro
+
+[ASSEMBLY]
+Name=boro-comm
+Executable=boro-comm.exe
+Version=1.0.0.0
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/boro-comm
+
+[INSTALLER]
+Binaries=http://borocito.local/Boro-Get/REPO/boro-comm.zip
+Installer=NULL
+InstallFolder=%temp%

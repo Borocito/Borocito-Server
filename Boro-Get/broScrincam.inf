@@ -2,11 +2,13 @@
 [GENERAL]
 Author=Zhenboro
 From=http://github.com/Zhenboro
+
 [ASSEMBLY]
 Name=broScrincam
 Executable=broScrincam.exe
 Version=0.1.0.0
-Web=https://github.com/Zhenboro/borocito-components/tree/main/broScrincam
+Web=https://github.com/Borocito/Components-for-Borocito/tree/main/broScrincam
+
 [INSTALLER]
 Binaries=http://borocito.local/Boro-Get/REPO/broScrincam.zip
 Installer=NULL
