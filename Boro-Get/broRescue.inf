@@ -1,7 +1,7 @@
 # Boro-Get broRescue Repo file
 [GENERAL]
-Author=Microsoft Corporation
-From=http://github.com/Microsoft Corporation
+Author=Zhenboro
+From=http://github.com/Zhenboro
 
 [ASSEMBLY]
 Name=broRescue
